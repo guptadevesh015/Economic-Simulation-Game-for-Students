@@ -5,6 +5,8 @@ The Economic Simulation Game is a decentralized application designed to teach st
 
 ## Contract Address
 - Contract Address: **0x905E95490A5Af5C06A585f990E78F0b94cFDE84a
+- ![image](https://github.com/user-attachments/assets/e5c93af3-767d-4621-9c63-0bedf9856c33)
+
 
 ## Project Vision
 The vision of the Economic Simulation Game is to create an engaging and educational platform for students to understand and practice economic concepts in a simulated, risk-free environment. By integrating blockchain technology, students can gain hands-on experience in the world of decentralized finance, virtual trading, and digital assets. The project aims to provide a dynamic and interactive learning tool that encourages practical learning while fostering financial literacy.
